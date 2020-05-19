@@ -16,6 +16,15 @@ namespace SourceControlTest1
         public MainPage()
         {
             InitializeComponent();
+
+            //This is a branch comment
+
+            //This is Feature 1
+
+            //This is another change
+
+
+
         }
     }
 }
